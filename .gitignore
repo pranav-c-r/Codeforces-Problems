@@ -57,6 +57,12 @@ cover/
 # Translations
 *.mo
 *.pot
+*.exe 
+800/*.exe
+900/*.exe
+1000/*.exe
+1200/*.exe
+1300/*.exe
 
 # Django stuff:
 *.log

@@ -19,7 +19,7 @@ int main(){
             else cout<<"NO";
             printed=1;
             break;
-        }
+        } 
     }
     if (printed==0)
         cout<<"NO";

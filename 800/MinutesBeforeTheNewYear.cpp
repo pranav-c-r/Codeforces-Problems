@@ -13,6 +13,7 @@ int main(){
         int passed=h*60+m;
         int minutes=total-passed;
         cout<<minutes<<endl;
+        
     }
     return 0;
 }

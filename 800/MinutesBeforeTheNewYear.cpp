@@ -14,6 +14,7 @@ int main(){
         int minutes=total-passed;
         cout<<minutes<<endl;
         
+        
     }
     return 0;
 }

@@ -19,6 +19,7 @@ int main(){
             c3++;
         }
 
+        
         // leftover prime factor
         if(n!=1||c2>c3){
             cout<<-1<<"\n";
